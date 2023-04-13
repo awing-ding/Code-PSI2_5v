@@ -5,8 +5,8 @@
 #define MIC A0 
 
 //references to detect a trigger
-#define REF 39
-#define REF2 41
+#define REF 82
+#define REF2 96
 
 //the number of time the microphone value is greater or inferior than the reference value to activate the system
 #define REF3 20 // the number of time the microphone value is greater than the reference value to activate the system
